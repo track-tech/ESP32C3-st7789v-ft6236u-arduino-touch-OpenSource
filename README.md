@@ -3,3 +3,6 @@
 
 个人修改到ESP32C3上运行，增加了一个小测试Demo，位于src下的GUI里
 
+
+
+-2023.07.16更新 添加SquareLine_Studio_Project
